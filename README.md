@@ -1,5 +1,5 @@
 # Reconhecimento de faces
 ### OPENCV & Python
 
-*Haarcascade
-*Exemplo de uso
+* Haarcascade
+* Exemplo de uso
